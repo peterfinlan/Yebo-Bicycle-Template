@@ -1,6 +1,6 @@
 # "Yebo" One Page Website Template
 
-"Yebo" is a one page website template made by [Peter Finlan](http://peterfinlan.com/) exclusively for Codrops.
+"Yebo" is a one page website template made by [Peter Finlan](http://peterfinlan.com/).
 
 [Download](https://dribbble.com/shots/1539580-Freebie-Yebo-Flat-HTML5-CSS3-Template)
 
