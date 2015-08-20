@@ -18,6 +18,10 @@ Before contributing, please see the Contributing Guide (Coming soon).
 
 ## Credits 
 
+### Design
+
+Designed by [Yebo](https://dribbble.com/shots/1491069-Bicycle-Flat-Layout-PSD/)
+
 ### Bootstrap
 
 [Bootstrap](http://getbootstrap.com/) by Twitter. Licensed under [MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE)
